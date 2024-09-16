@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm SANDEEPA RAVINDI</h1>
+
 <h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeeparavindi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeparavindi" /> </p>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 📝 I’m student of **IJSE | Institute of Software Engineering**
 
@@ -18,7 +21,11 @@
 <p align="left">
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -61,4 +68,14 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
     </a> 
 </p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+---
+
+Credit: [sandeeparavindi](https://github.com/sandeeparavindi)
+
+Last Edited on: 16/09/2024.
 
