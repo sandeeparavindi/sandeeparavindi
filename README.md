@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Java, HTML, CSS, JS**
 
-- 📫 How to reach me **sandeeparavindi@gmail.com**
+- 📫 How to reach me **sandeeparavindi1022@gmail.com**
 
 - ⚡ Fun fact **call me as Sanu**
 
