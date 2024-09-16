@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeeparavindi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeparavindi" /> </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" /></p>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 📝 I’m student of **IJSE | Institute of Software Engineering**
