@@ -2,9 +2,7 @@
 
 <h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeeparavindi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeparavindi" /> </p>
-
-<p><img align="right" src="" width="300" height="300" /></p>
+<p><img align="right" src="https://github.com/sandeeparavindi/sandeeparavindi/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanu!;I'm+a+Full-stack+Developer...;I'm+also+Student;And+I'm+a+Web+Developer)](https://git.io/typing-svg)
 
@@ -19,8 +17,6 @@
 - 💬 Ask me about **Java, HTML, CSS, JS**
 
 - 📫 How to reach me **sandeeparavindi1022@gmail.com**
-
-- ⚡ Fun fact **call me as Sanu**
 
 <p align="left">
 </p>
