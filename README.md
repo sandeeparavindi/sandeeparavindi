@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeeparavindi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeparavindi" /> </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" height="300" /></p>
+<p><img align="right" src="" width="300" height="300" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanu!;I'm+a+Full-stack+Developer...;I'm+also+Student;And+I'm+a+Web+Developer)](https://git.io/typing-svg)
 
