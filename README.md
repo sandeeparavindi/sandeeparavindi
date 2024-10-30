@@ -4,7 +4,7 @@
 
 <p><img align="right" src="https://github.com/sandeeparavindi/sandeeparavindi/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sanu!;I'm+a+Full-stack+Developer...;I'm+also+Student;And+I'm+a+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sandeepa!;I'm+a+Full-stack+Developer...;I'm+also+Student;And+I'm+a+Web+Developer)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
