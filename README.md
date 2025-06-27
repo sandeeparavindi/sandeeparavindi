@@ -8,13 +8,15 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
+- 📝 I am currently an undergraduate student in BSc (Honors) in Software Engineering at **NSBM Green University**
+
 - 📝 I’m student of **IJSE | Institute of Software Engineering**
 
-- 🌱 I’m currently learning **API Development**
+- 🌱 I’m currently learning **Web and Mobile App Development**
 
 - 👯 I’m looking to collaborate on **web application**
 
-- 💬 Ask me about **Java, HTML, CSS, JS**
+- 💬 Ask me about **Java, HTML, CSS, JS, TS, Python, React, React-Native**
 
 - 📫 How to reach me **sandeeparavindi1022@gmail.com**
 
